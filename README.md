@@ -23,6 +23,6 @@
   <a href="https://www.linkedin.com/in/adriele-pinto-teodoro-de-lima-037557100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/adriele.teodoro.92" target="_blamk"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/Adriel-lima/Adriele-lima/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Adriele-lima/Adriele-lima/blob/output/github-contribution-grid-snake.svg)
  
 </div>
